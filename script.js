@@ -79,6 +79,3 @@ imageModal.addEventListener('click', (event) => {
   if (event.target === imageModal) imageModal.close();
 });
 
-document.querySelector('#videoButton').addEventListener('click', () => {
-  alert('Substitua este bloco pelo vídeo institucional do chef quando estiver disponível.');
-});
